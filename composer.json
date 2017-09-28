@@ -1,0 +1,11 @@
+{
+	"require": {
+		"aura/auth": "^2.0"
+		, "xtreamwayz/pimple-container-interop": "^1.0"
+	}
+	, "autoload": {
+		"psr-4": {
+			"Adrium\\Test\\": "src/"
+		}
+	}
+}
